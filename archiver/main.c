@@ -9,8 +9,8 @@ int main(int argc, char** argv)
      *  argv[1]        - для ввода говнокоманды
      *  arch = argv[2] - имя архива
      *  argv[3]        - файл1
-     *  argv[4]        - файл2
-     *  ....
+     *  argv[4]        - файл2 
+     *  .... 
      */
     if (argc <= 2) {
         printf("Использование:\n");
